@@ -7,7 +7,7 @@ const Component = () => {
             <div className="bg-white pt-16 pr-4 pb-16 pl-4 md:px-24 lg:px-8 lg:py-20">
                 <div className="mr-auto ml-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl">
                     <div className="mr-auto ml-auto max-w-lg sm:text-center sm:mx-auto">
-                        <Image alt="Keeping It Real on Commercial Real Estate" height={100} width={100} src="/toddnepola/keeping-it-real-on-commercial-real-estate.png" className="object-contain object-top mb-8 w-full h-96"/>
+                        <Image alt="Delgado Legal P.A." height={100} width={100} src="/delgado-legal/delgado-legal-logo.svg" className="object-contain object-top mb-8 w-full h-full"/>
                         <div className="mb-6">
                             <p className="block text-3xl font-bold tracking-tight text-gray-900 leading-8 font-sans sm:text-4xl"></p>
                             <p className="inline text-3xl font-bold tracking-tight text-gray-900 font-sans sm:text-4xl sm:leading-none">Your
@@ -19,7 +19,7 @@ const Component = () => {
                         </p>
                         <hr className="my-8 border-gray-300"/>
                         <div className="flex items-center mb-3 sm:justify-center space-x-8">
-                            <a href="/reviews/make-review">
+                            <a href="/delgadolegalpa/make-review">
                                 <span className="flex justify-center items-center">
                                 <svg width="145" height="158" viewBox="0 0 145 158" fill="none" xmlns="http://www.w3.org/2000/svg"><path
                                     d="M1 1V144H78L82 157L94.5 144H144V1H1Z" fill="#3E558E" stroke="black"/><path d="M48.8852 61L25
@@ -31,7 +31,7 @@ const Component = () => {
                                 </span>
                                 <p className="text-2xl font-sans font-bold">Yes</p>
                             </a>
-                            <a href="/reviews/service-recovery">
+                            <a href="/delgadolegalpa/service-recovery">
                                 <span className="flex justify-center items-center">
                                 <svg width="145" height="158" viewBox="0 0 145 158" fill="none" xmlns="http://www.w3.org/2000/svg"><path
                                     d="M1 1V144H78L82 157L94.5 144H144V1H1Z" fill="#FF0101" stroke="black"/><path d="M101.923

@@ -29,7 +29,7 @@ const Component = () => {
                                     67.5C121 70 123 78 115 82C125 83 122 95 115 96C119.5 100 116.5 105 113 105L86.5 109C81.329 109.529
                                     78.5974 109.296 74 108L63 104Z" fill="white"/></svg>
                                 </span>
-                                <p className="text-2xl font-sans font-bold">Yes</p>
+                                <p className="text-2xl font-sans text-black font-bold">Yes</p>
                             </a>
                             <a href="/toddnepola/service-recovery">
                                 <span className="flex justify-center items-center">
@@ -44,7 +44,7 @@ const Component = () => {
                                     47.1283L63.156 42.4873C68.3127 41.8336 71.0491 41.9998 75.6765 43.1841L86.7702 46.9164Z"
                                     fill="white"/></svg>
                                 </span>
-                                <p className="text-2xl font-sans font-bold">No</p>
+                                <p className="text-2xl font-sans text-black font-bold">No</p>
                             </a>
                         </div>
                     </div>

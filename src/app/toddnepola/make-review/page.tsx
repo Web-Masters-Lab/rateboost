@@ -21,9 +21,9 @@ const Component = () => {
             <div className="justify-evenly h-80 container">
               <div className="items-center justify-center group flex flex-col">
                 <a>
-                <Image height={100} width={100} alt="Review in Google" src="/rateboost/google-logo.png" className="object-contain object-center block h-56 mx-auto w-auto"/>
+                <Image height={100} width={100} alt="Review in Google" src="/rateboost/amazon-icon.svg" className="object-contain object-center block h-56 mx-auto w-auto"/>
                 </a>
-                <a className="font-bold text-lg text-blue-600 mt-4 underline group-hover:no-underline group-hover:text-yellow-400">Click Here To Review Us On Google</a>
+                <a className="font-bold text-lg text-blue-600 mt-4 underline group-hover:no-underline group-hover:text-yellow-400">Click Here To Review Us On Amazon</a>
               </div>
             </div>
           </div>

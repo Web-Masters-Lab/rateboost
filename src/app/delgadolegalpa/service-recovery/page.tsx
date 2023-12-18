@@ -7,7 +7,7 @@ const Component = () => {
       <div className="bg-white pt-16 pr-4 pb-16 pl-4 md:px-24 lg:px-8 lg:py-20">
         <div className="mr-auto ml-auto max-w-lg">
           <div className="mr-auto ml-auto sm:text-center sm:mx-auto">
-          <Image alt="Keeping It Real on Commercial Real Estate" height={100} width={100} src="/toddnepola/keeping-it-real-on-commercial-real-estate.png" className="object-contain object-top mb-8 w-full h-96"/>
+          <Image alt="Keeping It Real on Commercial Real Estate" height={100} width={100} src="/delgado-legal/delgado-legal-logo.svg" className="object-contain object-top mb-8 w-full h-full"/>
             <div className="mb-6">
               <p className="text-3xl font-bold tracking-tight leading-8 sm:text-4xl text-gray-900 block font-sans"></p>
               <p className="text-3xl font-bold tracking-tight sm:text-4xl sm:leading-none text-gray-900 inline font-sans">We
@@ -18,7 +18,7 @@ const Component = () => {
                   support you.</span>
             </p>
             <hr className="my-8 border-gray-300"/>
-            <form action="/reviews/message-received">
+            <form action="/delgadolegalpa/message-received">
               <div className="justify-center flex flex-col container">
                 <label htmlFor="name" className="text-left mb-2 font-bold text-xl">Name</label>
                 <input name="name" type="text" placeholder="John" className="h-10 px-4 text-lg border-black border-2 border-solid text-black bg-white rounded-md"/>

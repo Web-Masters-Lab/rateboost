@@ -20,10 +20,10 @@ const Component = () => {
                 </p>
                 <hr className="mt-28 border-gray-300"/>
                 <div className="justify-evenly flex container">
-                <div className="items-center mt-4 justify-center flex-col flex">
-                <a className="text-md mb-4 text-gray-600">If you would like to leave a public review, you can do that as well.</a>
-                    <Image height={100} width={100} alt="Review in Google" src="https://localleadflow.net/wp-content/uploads/2021/02/google-logo-bw-300-150x150.png" className="object-contain object-center block h-22  mx-auto w-auto"/>
-                </div>
+                    <div className="items-center mt-4 justify-center flex-col flex">
+                        <a className="text-md mb-4 text-gray-600">If you would like to leave a public review, you can do that as well.</a>
+                        <Image height={100} width={100} alt="Review in Amazon" src="/rateboost/amazon-icon-bw.svg" className="object-contain object-center block h-16 mx-auto w-16"/>
+                    </div>
                 </div>
             </div>
             </div>

@@ -18,7 +18,7 @@ const Component = () => {
                   support you.</span>
             </p>
             <hr className="my-8 border-gray-300"/>
-            <form action="toddnepola/message-received">
+            <form action="/toddnepola/message-received">
               <div className="justify-center flex flex-col container">
                 <label htmlFor="name" className="text-left mb-2 font-bold text-xl">Name</label>
                 <input name="name" type="text" placeholder="John" className="h-10 px-4 text-lg border-black border-2 border-solid text-black bg-white rounded-md"/>
